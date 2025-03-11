@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript & C++**
 
-- 📫 How to reach me **amencretive2012@gmail.com**
+- 📫 How to reach me **contact@amencreativedesigns.com**
 
 - ⚡ Fun fact **I think I am funny**
 
