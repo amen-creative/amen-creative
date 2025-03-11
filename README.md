@@ -7,13 +7,13 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **HTML, CSS, and JavaScript**
+-  I’m currently working on **HTML, CSS, and JavaScript**
 
-- 🌱 I’m currently learning **JavaScript & C++**
+-  I’m currently learning **JavaScript & C++**
 
-- 📫 How to reach me **contact@amencreativedesigns.com**
+-  How to reach me **contact@amencreativedesigns.com**
 
-- ⚡ Fun fact **I think I am funny**
+-  Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
