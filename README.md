@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hey 👋, I'm Amen Alebachew Kassa</h1>
 <h3 align="center">Creative Developer • Graphics Designer • IT Student • Founder of Amen Creative</h3>
 
@@ -91,4 +91,3 @@
 <p align="center">
   <i>"Let's Create Awesome."</i>
 </p>
-```
