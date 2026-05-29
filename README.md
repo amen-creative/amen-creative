@@ -1,42 +1,94 @@
-<h1 align="center">Hi 👋, I'm @amen-creative</h1>
-<h3 align="center">A junior developer from Ethiopia</h3>
+```html
+<h1 align="center">Hey 👋, I'm Amen Alebachew Kassa</h1>
+<h3 align="center">Creative Developer • Graphics Designer • IT Student • Founder of Amen Creative</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amen-creative" alt="amen-creative" />
-  </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Creative+Thinker;Frontend+Developer;Graphics+Designer;Content+Creator;Building+Skill+Mesob;Founder+of+Amen+Creative" alt="Typing SVG" />
 </p>
 
--  I’m currently working on **HTML, CSS, and JavaScript**
+<p align="center">
+  <a href="https://github.com/amen-creative">
+    <img src="https://github-profile-trophy.vercel.app/?username=amen-creative&theme=algolia&margin-w=10&margin-h=10&row=1&column=6" alt="trophies"/>
+  </a>
+</p>
 
--  I’m currently learning **JavaScript & C++**
+---
 
--  How to reach me **contact@amencreativedesigns.com**
+## 🚀 About Me
 
--  Fun fact **I think I am funny**
+- 🎓 Information Technology Student at Haramaya University
+- 🎨 Founder of **Amen Creative**
+- 🌍 Based in Ethiopia
+- 💡 Passionate about Creative Technology, Branding & Web Development
+- 🧠 Currently building **Skill Mesob** — a modern e-learning platform
+- 📹 Content Creator focused on design, creativity, and digital education
+- 📈 Social Media Manager at Every Digital Studio
+- ⚡ I love combining creativity with technology
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="left">
-  <a href="https://instagram.com/amen.creative" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amen.creative" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,git,github,vscode,figma,ps,ai,pr" />
+</p>
+
+---
+
+## 🌟 Current Focus
+
+- 🔥 Building scalable web applications
+- 🎨 Advanced UI/UX and branding systems
+- 📚 Developing online learning experiences
+- 🎥 Creating educational and creative content
+- 🌍 Growing African creative communities
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amen-creative&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amen-creative&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amen-creative&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/amen.creative" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
-  <a href="https://www.behance.net/amen_creative" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amen_creative" height="30" width="40" />
+
+  <a href="https://www.behance.net/amen_creative" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" width="40" />
   </a>
-  <a href="https://youtube.com/amencreative" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amencreative" height="30" width="40" />
+
+  <a href="https://youtube.com/@amencreative" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="45" />
+  </a>
+
+  <a href="https://amencreativedesigns.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="45" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
+---
+
+## 📫 Contact
+
+- 📧 contact@amencreativedesigns.com
+- 🌐 www.amencreativedesigns.com
+
+---
+
+<p align="center">
+  <i>"Let's Create Awesome."</i>
 </p>
+```
